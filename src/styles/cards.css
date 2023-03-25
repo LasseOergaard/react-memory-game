@@ -1,0 +1,17 @@
+.cards {
+  width: 100vw;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+
+
+div img {
+  max-width: 80%;
+  transition: all 0.1s;
+  cursor: pointer;
+}
+
+img:hover {
+  transform: scale(1.1);
+}
