@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-memory-game/static/css/main.0339f41e.css",
+    "main.js": "/react-memory-game/static/js/main.30994ce8.js",
+    "static/media/ostrich.png": "/react-memory-game/static/media/ostrich.931f93a7f4653e6d30b3.png",
+    "static/media/dog.webp": "/react-memory-game/static/media/dog.e11b3fc0b25d22a76d3b.webp",
+    "static/media/turtle.png": "/react-memory-game/static/media/turtle.88d78f2c30a441d83882.png",
+    "static/media/elephant.png": "/react-memory-game/static/media/elephant.53f95bd4ca580170c42b.png",
+    "static/media/kangaroo.png": "/react-memory-game/static/media/kangaroo.2373b1d2428e8bfce135.png",
+    "static/media/cat.png": "/react-memory-game/static/media/cat.ff068b2dd90c03dcefcc.png",
+    "static/media/monkey.png": "/react-memory-game/static/media/monkey.89434b2abc08156e553d.png",
+    "static/media/zebra.webp": "/react-memory-game/static/media/zebra.78a0931c0e4bf2dc2954.webp",
+    "static/media/panga.png": "/react-memory-game/static/media/panga.90feb96ae59600c18ead.png",
+    "index.html": "/react-memory-game/index.html",
+    "main.0339f41e.css.map": "/react-memory-game/static/css/main.0339f41e.css.map",
+    "main.30994ce8.js.map": "/react-memory-game/static/js/main.30994ce8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0339f41e.css",
+    "static/js/main.30994ce8.js"
+  ]
+}
